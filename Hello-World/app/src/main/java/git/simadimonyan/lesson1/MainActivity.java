@@ -46,7 +46,8 @@ public class MainActivity extends AppCompatActivity {
 
     void load() {
        SharedPreferences.Editor edit = pref.edit();
-       edit.putInt("enters", enters);
+       edit.putInt("enters", enters); //enters load
+       edit.putInt("exits", exits); //exits load
        edit.apply();
     }
 
