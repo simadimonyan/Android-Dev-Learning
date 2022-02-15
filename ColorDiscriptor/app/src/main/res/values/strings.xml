@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+    <string name="button">Check Your Character</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>White</item>
+        <item>Blue</item>
+        <item>Orange</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Red - Having a personality color red suggests a strong will, ambition, and energy.</item>
+        <item>White - People with white personality type are all about looking for simplicity, openness, and purity. It is a very confident personality type.</item>
+        <item>Blue - Having a personality color blue suggests a tendency to having a fixed set of principles and desire to live according to these principles. It is also a peaceful personality type.</item>
+        <item>Orange - People with an orange personality type can be described as social butterflies. They sincerely love people and like to be around others. </item>
+        <item>Green - According to color psychology, people with a strong preference for the color green strive for safety, security, and acknowledgment. They need to love and be loved.</item>
+        <item>Yellow - People with this personality type are perfectionists and dreamers.</item>
+        <item>Pink - People who like pink color are loving and kind. They are generous and happy to help others when they need a should to cry on.</item>
+    </string-array>
+
+</resources>
